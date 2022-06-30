@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Interface Login Instagram
+Interface to like and comment in dog photos
 </p>
 
 <p align="center">
